@@ -1,0 +1,6 @@
+C:\Users\mrlma\source\repos\DoWhileFactorial\DoWhileFactorial\bin\Debug\DoWhileFactorial.exe.config
+C:\Users\mrlma\source\repos\DoWhileFactorial\DoWhileFactorial\bin\Debug\DoWhileFactorial.exe
+C:\Users\mrlma\source\repos\DoWhileFactorial\DoWhileFactorial\bin\Debug\DoWhileFactorial.pdb
+C:\Users\mrlma\source\repos\DoWhileFactorial\DoWhileFactorial\obj\Debug\DoWhileFactorial.csproj.CoreCompileInputs.cache
+C:\Users\mrlma\source\repos\DoWhileFactorial\DoWhileFactorial\obj\Debug\DoWhileFactorial.exe
+C:\Users\mrlma\source\repos\DoWhileFactorial\DoWhileFactorial\obj\Debug\DoWhileFactorial.pdb
