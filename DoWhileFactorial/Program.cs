@@ -10,13 +10,14 @@ namespace DoWhileFactorial
     {
         static void Main(string[] args)
         {
-            int counter = 4;
+            Console.WriteLine("write nombre of client:");
+            int x = Convert.ToInt32(Console.ReadLine());
             int factorial = 1;
-            Console.Write("Factorial of numbre {0}! = ", counter);
+            Console.Write("Factorial of numbre {0}! = ",x);
             do
             {
-                factorial *= counter--;
-            } while (counter > 0);
+                factorial *= x--;
+            } while (x > 0);
             Console.WriteLine("{0}", factorial);
 
 
